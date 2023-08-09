@@ -1,0 +1,6 @@
+[submodule "emall"]
+	path = emall
+	url = https://gitee.com/renrenio/renren-fast.git
+[submodule "renren-fast"]
+	path = renren-fast
+	url = https://gitee.com/renrenio/renren-fast.git
