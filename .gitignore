@@ -5,3 +5,4 @@
 .idea
 .gitignore
 !/renren-fast-vue/.gitignore
+renren-generator
